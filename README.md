@@ -34,6 +34,7 @@ Install any missing packages required by the project:
 Update the following information from the appsettings 
 "apiKey": "your api keu",
 "senderId": "your authorized sender"
+
 After changing the appsettings file please keep the file the following locations. 
 
 appsettings folder location \vexCash\MessageBird\bin\Debug\net10.0
@@ -45,6 +46,7 @@ log file location: \vexCash\MessageBird\bin\Debug\logs
 ## Documentation
 
 Quickstart:https://developers.messagebird.com/quickstarts/sms-overview/
+
 API Reference:https://developers.messagebird.com/api/sms-messaging/“
 
 ## How to run
