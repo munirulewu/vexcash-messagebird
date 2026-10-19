@@ -48,4 +48,7 @@ Quickstart:https://developers.messagebird.com/quickstarts/sms-overview/
 API Reference:https://developers.messagebird.com/api/sms-messaging/“
 
 ## How to run
+1. application is compled. ensure that you have visual studion 2026 is installed in your working station. 
+2. folder location \vexCash\MessageBird\bin\Debug\net10.0\messagebird.exe application file
+ 
 
