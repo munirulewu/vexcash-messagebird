@@ -1,0 +1,62 @@
+2026-10-17 19:18:19.726 +02:00 [INF] MessageBird SMS application starting
+2026-10-17 19:18:20.037 +02:00 [INF] Application configuration loaded
+2026-10-17 19:18:21.656 +02:00 [INF] Database services initialized
+2026-10-17 19:18:35.746 +02:00 [INF] Retrieving Template Information
+2026-10-17 19:18:37.911 +02:00 [INF] Customer lookup successful
+2026-10-17 19:23:16.388 +02:00 [INF] MessageBird SMS application starting
+2026-10-17 19:23:16.467 +02:00 [INF] Application configuration loaded
+2026-10-17 19:23:16.774 +02:00 [INF] Database services initialized
+2026-10-17 19:23:19.397 +02:00 [INF] Retrieving Template Information
+2026-10-17 19:23:20.149 +02:00 [INF] Starting customer lookup.
+2026-10-17 19:23:20.226 +02:00 [WRN] Customer lookup returned no result.
+2026-10-17 19:23:20.228 +02:00 [WRN] Customer lookup returned no result
+2026-10-17 19:23:31.305 +02:00 [INF] Retrieving Template Information
+2026-10-17 19:23:31.309 +02:00 [INF] Starting customer lookup.
+2026-10-17 19:23:31.333 +02:00 [INF] Customer lookup completed successfully.
+2026-10-17 19:23:31.334 +02:00 [INF] Customer lookup successful
+2026-10-17 19:28:29.175 +02:00 [INF] MessageBird SMS application starting
+2026-10-17 19:28:29.248 +02:00 [INF] Application configuration loaded
+2026-10-17 19:28:29.512 +02:00 [INF] Database services initialized
+2026-10-17 19:28:34.447 +02:00 [INF] Retrieving Template Information
+2026-10-17 19:28:34.449 +02:00 [INF] Starting retrieval of message templates.
+2026-10-17 19:28:35.166 +02:00 [INF] Successfully retrieved 3 message templates.
+2026-10-17 19:28:35.171 +02:00 [INF] Finished displaying message templates.
+2026-10-17 19:28:35.173 +02:00 [INF] Starting customer lookup.
+2026-10-17 19:28:35.267 +02:00 [INF] Customer lookup completed successfully.
+2026-10-17 19:28:35.269 +02:00 [INF] Customer lookup successful
+2026-10-17 19:32:22.732 +02:00 [INF] MessageBird SMS application starting
+2026-10-17 19:32:22.808 +02:00 [INF] Application configuration loaded
+2026-10-17 19:32:23.081 +02:00 [INF] Database services initialized
+2026-10-17 19:32:25.358 +02:00 [INF] Retrieving Template Information
+2026-10-17 19:32:25.360 +02:00 [INF] Starting retrieval of message templates.
+2026-10-17 19:32:26.075 +02:00 [INF] Successfully retrieved 3 message templates.
+2026-10-17 19:32:26.080 +02:00 [INF] Finished displaying message templates.
+2026-10-17 19:32:26.082 +02:00 [INF] Starting customer lookup.
+2026-10-17 19:32:26.157 +02:00 [INF] Customer lookup completed successfully.
+2026-10-17 19:32:26.159 +02:00 [INF] Customer lookup successful
+2026-10-17 19:32:30.335 +02:00 [INF] selected Template id 1
+2026-10-17 19:50:58.347 +02:00 [INF] MessageBird SMS application starting
+2026-10-17 19:50:58.417 +02:00 [INF] Application configuration loaded
+2026-10-17 19:50:58.598 +02:00 [INF] Database services initialized
+2026-10-17 19:51:01.785 +02:00 [INF] Retrieving Template Information
+2026-10-17 19:51:01.787 +02:00 [INF] Starting retrieval of message templates.
+2026-10-17 19:51:02.520 +02:00 [INF] Successfully retrieved 3 message templates.
+2026-10-17 19:51:02.527 +02:00 [INF] Finished displaying message templates.
+2026-10-17 19:51:02.529 +02:00 [INF] Starting customer lookup.
+2026-10-17 19:51:02.610 +02:00 [INF] Customer lookup completed successfully.
+2026-10-17 19:51:02.611 +02:00 [INF] Customer lookup successful
+2026-10-17 19:51:04.707 +02:00 [INF] selected Template id 1
+2026-10-17 19:51:04.710 +02:00 [INF] Retrieving message template 1.
+2026-10-17 19:51:04.723 +02:00 [INF] Message generated successfully using template 1.
+2026-10-17 19:51:04.725 +02:00 [INF] Dear Munirul, your outstanding amount of 150 for credit 101 is due by 10/10/2026 12:00:00 AM. If you have already paid, please disregard this reminder.
+2026-10-17 19:51:24.584 +02:00 [INF] Retrieving Template Information
+2026-10-17 19:51:24.585 +02:00 [INF] Starting retrieval of message templates.
+2026-10-17 19:51:24.588 +02:00 [INF] Successfully retrieved 3 message templates.
+2026-10-17 19:51:24.589 +02:00 [INF] Finished displaying message templates.
+2026-10-17 19:51:24.590 +02:00 [INF] Starting customer lookup.
+2026-10-17 19:51:24.593 +02:00 [INF] Customer lookup completed successfully.
+2026-10-17 19:51:24.594 +02:00 [INF] Customer lookup successful
+2026-10-17 19:51:27.254 +02:00 [INF] selected Template id 2
+2026-10-17 19:51:27.255 +02:00 [INF] Retrieving message template 2.
+2026-10-17 19:51:27.257 +02:00 [INF] Message generated successfully using template 2.
+2026-10-17 19:51:27.258 +02:00 [INF] Dear Nazmul, our records show that 500 for credit 102 remains unpaid. Please arrange payment by 10/10/2026 12:00:00 AM. If payment has been made, please contact us

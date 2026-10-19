@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\VexCashTestProject\\MessageBird\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{229E2E45-C3D8-176F-19C6-C8EB22795E10}|MessageBird.csproj|e:\\vexcashtestproject\\messagebird\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{229E2E45-C3D8-176F-19C6-C8EB22795E10}|MessageBird.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{229E2E45-C3D8-176F-19C6-C8EB22795E10}|MessageBird.csproj|e:\\vexcashtestproject\\messagebird\\utility\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{229E2E45-C3D8-176F-19C6-C8EB22795E10}|MessageBird.csproj|solutionrelative:utility\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{229E2E45-C3D8-176F-19C6-C8EB22795E10}|MessageBird.csproj|e:\\vexcashtestproject\\messagebird\\smsservice\\smsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{229E2E45-C3D8-176F-19C6-C8EB22795E10}|MessageBird.csproj|solutionrelative:smsservice\\smsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{229E2E45-C3D8-176F-19C6-C8EB22795E10}|MessageBird.csproj|e:\\vexcashtestproject\\messagebird\\readme\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{229E2E45-C3D8-176F-19C6-C8EB22795E10}|MessageBird.csproj|solutionrelative:readme\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\VexCashTestProject\\MessageBird\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\VexCashTestProject\\MessageBird\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T00:54:10.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SMSService.cs",
+              "DocumentMoniker": "E:\\VexCashTestProject\\MessageBird\\SMSService\\SMSService.cs",
+              "RelativeDocumentMoniker": "SMSService\\SMSService.cs",
+              "ToolTip": "E:\\VexCashTestProject\\MessageBird\\SMSService\\SMSService.cs",
+              "RelativeToolTip": "SMSService\\SMSService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T00:54:03.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Utility.cs",
+              "DocumentMoniker": "E:\\VexCashTestProject\\MessageBird\\Utility\\Utility.cs",
+              "RelativeDocumentMoniker": "Utility\\Utility.cs",
+              "ToolTip": "E:\\VexCashTestProject\\MessageBird\\Utility\\Utility.cs",
+              "RelativeToolTip": "Utility\\Utility.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T00:54:01.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReadMe.txt",
+              "DocumentMoniker": "E:\\VexCashTestProject\\MessageBird\\ReadMe\\ReadMe.txt",
+              "RelativeDocumentMoniker": "ReadMe\\ReadMe.txt",
+              "ToolTip": "E:\\VexCashTestProject\\MessageBird\\ReadMe\\ReadMe.txt",
+              "RelativeToolTip": "ReadMe\\ReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-10-19T00:53:43.591Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

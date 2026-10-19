@@ -1,0 +1,636 @@
+2026-10-18 11:14:25.598 +02:00 [INF] MessageBird SMS application starting
+2026-10-18 11:14:26.097 +02:00 [INF] Application configuration loaded
+2026-10-18 11:14:30.224 +02:00 [INF] Database services initialized
+2026-10-18 11:14:34.575 +02:00 [INF] Retrieving Template Information
+2026-10-18 11:14:34.578 +02:00 [INF] Starting retrieval of message templates.
+2026-10-18 11:14:38.532 +02:00 [INF] Successfully retrieved 3 message templates.
+2026-10-18 11:14:38.539 +02:00 [INF] Finished displaying message templates.
+2026-10-18 11:14:38.541 +02:00 [INF] Starting customer lookup.
+2026-10-18 11:14:38.631 +02:00 [INF] Customer lookup completed successfully.
+2026-10-18 11:14:38.632 +02:00 [INF] Customer lookup successful
+2026-10-18 11:14:50.231 +02:00 [INF] selected Template id 1
+2026-10-18 11:14:50.233 +02:00 [INF] Retrieving message template 1.
+2026-10-18 11:14:50.243 +02:00 [INF]  Message template 1.
+2026-10-18 11:14:50.248 +02:00 [INF] Message generated successfully using template 1.
+2026-10-18 11:14:50.249 +02:00 [INF] Dear Munirul, your outstanding amount of 150 for credit 101 is due by 10/10/2026 12:00:00 AM. If you have already paid, please disregard this reminder.
+2026-10-18 11:14:55.049 +02:00 [INF] Retrieving Template Information
+2026-10-18 11:14:55.050 +02:00 [INF] Starting retrieval of message templates.
+2026-10-18 11:14:55.052 +02:00 [INF] Successfully retrieved 3 message templates.
+2026-10-18 11:14:55.054 +02:00 [INF] Finished displaying message templates.
+2026-10-18 11:14:55.054 +02:00 [INF] Starting customer lookup.
+2026-10-18 11:14:55.058 +02:00 [INF] Customer lookup completed successfully.
+2026-10-18 11:14:55.059 +02:00 [INF] Customer lookup successful
+2026-10-18 11:14:58.302 +02:00 [INF] selected Template id 2
+2026-10-18 11:14:58.303 +02:00 [INF] Retrieving message template 2.
+2026-10-18 11:14:58.304 +02:00 [INF]  Message template 2.
+2026-10-18 11:14:58.305 +02:00 [INF] Message generated successfully using template 2.
+2026-10-18 11:14:58.306 +02:00 [INF] Dear Nazmul, our records show that 500 for credit 102 remains unpaid. Please arrange payment by 10/10/2026 12:00:00 AM. If payment has been made, please contact us
+2026-10-18 11:47:10.752 +02:00 [INF] MessageBird SMS application starting
+2026-10-18 11:47:10.849 +02:00 [INF] Application configuration loaded
+2026-10-18 11:47:10.910 +02:00 [ERR] Error while processing customer lookup or templates
+System.InvalidOperationException: BirdApi:MessagesEndpoint is missing from appsettings.json.
+   at Program.<Main>$(String[] args) in E:\VexCashTestProject\MessageBird\Program.cs:line 40
+2026-10-18 11:47:59.079 +02:00 [INF] MessageBird SMS application starting
+2026-10-18 11:47:59.213 +02:00 [INF] Application configuration loaded
+2026-10-18 11:47:59.732 +02:00 [INF] Database services initialized
+2026-10-18 11:48:04.074 +02:00 [INF] Retrieving Template Information
+2026-10-18 11:48:04.112 +02:00 [INF] Starting retrieval of message templates.
+2026-10-18 11:48:05.575 +02:00 [INF] Successfully retrieved 3 message templates.
+2026-10-18 11:48:05.583 +02:00 [INF] Finished displaying message templates.
+2026-10-18 11:48:05.584 +02:00 [INF] Starting customer lookup.
+2026-10-18 11:48:05.676 +02:00 [INF] Customer lookup completed successfully.
+2026-10-18 11:48:05.678 +02:00 [INF] Customer lookup successful
+2026-10-18 11:48:06.881 +02:00 [INF] selected Template id 1
+2026-10-18 11:48:06.883 +02:00 [INF] Retrieving message template 1.
+2026-10-18 11:48:06.891 +02:00 [INF]  Message template 1.
+2026-10-18 11:48:06.896 +02:00 [INF] Message generated successfully using template 1.
+2026-10-18 11:48:06.897 +02:00 [INF] Dear Munirul, your outstanding amount of 150 for credit 101 is due by 10/10/2026 12:00:00 AM. If you have already paid, please disregard this reminder.
+2026-10-18 11:54:55.967 +02:00 [INF] MessageBird SMS application starting
+2026-10-18 11:54:56.048 +02:00 [INF] Application configuration loaded
+2026-10-18 11:54:56.288 +02:00 [INF] Database services initialized
+2026-10-18 11:54:59.271 +02:00 [INF] Retrieving Template Information
+2026-10-18 11:54:59.274 +02:00 [INF] Starting retrieval of message templates.
+2026-10-18 11:55:00.014 +02:00 [INF] Successfully retrieved 3 message templates.
+2026-10-18 11:55:00.021 +02:00 [INF] Finished displaying message templates.
+2026-10-18 11:55:00.024 +02:00 [INF] Starting customer lookup.
+2026-10-18 11:55:00.106 +02:00 [INF] Customer lookup completed successfully.
+2026-10-18 11:55:00.107 +02:00 [INF] Customer lookup successful
+2026-10-18 11:55:02.243 +02:00 [INF] selected Template id 1
+2026-10-18 11:55:02.246 +02:00 [INF] Retrieving message template 1.
+2026-10-18 11:55:02.257 +02:00 [INF]  Message template 1.
+2026-10-18 11:55:02.262 +02:00 [INF] Message generated successfully using template 1.
+2026-10-18 11:55:02.263 +02:00 [INF] Dear Munirul, your outstanding amount of 150 for credit 101 is due by 10/10/2026 12:00:00 AM. If you have already paid, please disregard this reminder.
+2026-10-18 11:55:02.301 +02:00 [INF] payload is created {"to":"145870","from":"\u002B\u002B4915252066525","text":"Dear Munirul, your outstanding amount of 150 for credit 101 is due by 10/10/2026 12:00:00 AM. If you have already paid, please disregard this reminder.","category":"transactional"}
+2026-10-18 11:55:02.566 +02:00 [INF] Response of payload {"error":{"type":"validation_error","code":"E12087","name":"SMSInvalidRecipient","message":"The recipient is not a phone number this message can be sent to.","param":"to","doc_url":"https://bird.com/docs/api/errors/E12087","request_id":"req_01m576zajef24v5nfan09a5d5j","remediation":"Supply the recipient in E.164 format with its country code, for example +14155550100."}}
+
+2026-10-18 11:55:25.959 +02:00 [INF] Retrieving Template Information
+2026-10-18 11:55:25.960 +02:00 [INF] Starting retrieval of message templates.
+2026-10-18 11:55:25.962 +02:00 [INF] Successfully retrieved 3 message templates.
+2026-10-18 11:55:25.964 +02:00 [INF] Finished displaying message templates.
+2026-10-18 11:55:25.964 +02:00 [INF] Starting customer lookup.
+2026-10-18 11:55:26.038 +02:00 [WRN] Customer lookup returned no result.
+2026-10-18 11:55:26.039 +02:00 [WRN] Customer lookup returned no result
+2026-10-18 11:55:43.594 +02:00 [INF] Retrieving Template Information
+2026-10-18 11:55:43.595 +02:00 [INF] Starting retrieval of message templates.
+2026-10-18 11:55:43.597 +02:00 [INF] Successfully retrieved 3 message templates.
+2026-10-18 11:55:43.599 +02:00 [INF] Finished displaying message templates.
+2026-10-18 11:55:43.600 +02:00 [INF] Starting customer lookup.
+2026-10-18 11:55:43.601 +02:00 [INF] Customer lookup completed successfully.
+2026-10-18 11:55:43.602 +02:00 [INF] Customer lookup successful
+2026-10-18 11:55:46.201 +02:00 [INF] selected Template id 5
+2026-10-18 11:55:46.203 +02:00 [INF] Retrieving message template 5.
+2026-10-18 11:55:46.206 +02:00 [WRN] Message template 5 was not found.
+2026-10-18 11:55:46.391 +02:00 [ERR] Failed to retrieve templete using template 5.
+System.Collections.Generic.KeyNotFoundException: Message template 5 was not found.
+   at MessageBird.Services.MessadeDA.getTempplatebyId(Int32 templateId) in E:\VexCashTestProject\MessageBird\DA\MessadeDA.cs:line 280
+2026-10-18 11:55:46.451 +02:00 [ERR] Error while processing customer lookup or templates
+System.Collections.Generic.KeyNotFoundException: Message template 5 was not found.
+   at MessageBird.Services.MessadeDA.getTempplatebyId(Int32 templateId) in E:\VexCashTestProject\MessageBird\DA\MessadeDA.cs:line 280
+   at Program.<Main>$(String[] args) in E:\VexCashTestProject\MessageBird\Program.cs:line 107
+2026-10-18 11:57:22.263 +02:00 [INF] MessageBird SMS application starting
+2026-10-18 11:57:22.351 +02:00 [INF] Application configuration loaded
+2026-10-18 11:57:22.525 +02:00 [INF] Database services initialized
+2026-10-18 11:57:31.180 +02:00 [INF] Retrieving Template Information
+2026-10-18 11:57:31.183 +02:00 [INF] Starting retrieval of message templates.
+2026-10-18 11:57:31.920 +02:00 [INF] Successfully retrieved 3 message templates.
+2026-10-18 11:57:31.926 +02:00 [INF] Finished displaying message templates.
+2026-10-18 11:57:31.929 +02:00 [INF] Starting customer lookup.
+2026-10-18 11:57:32.009 +02:00 [INF] Customer lookup completed successfully.
+2026-10-18 11:57:32.010 +02:00 [INF] Customer lookup successful
+2026-10-18 11:57:33.535 +02:00 [INF] selected Template id 6
+2026-10-18 11:57:33.538 +02:00 [INF] Retrieving message template 6.
+2026-10-18 11:57:45.154 +02:00 [WRN] Message template 6 was not found.
+2026-10-18 11:58:13.823 +02:00 [ERR] Failed to retrieve templete using template 6.
+System.Collections.Generic.KeyNotFoundException: Message template 6 was not found.
+   at MessageBird.Services.MessadeDA.getTempplatebyId(Int32 templateId) in E:\VexCashTestProject\MessageBird\DA\MessadeDA.cs:line 280
+2026-10-18 11:58:27.806 +02:00 [INF] MessageBird SMS application starting
+2026-10-18 11:58:27.897 +02:00 [INF] Application configuration loaded
+2026-10-18 11:58:28.142 +02:00 [INF] Database services initialized
+2026-10-18 11:58:30.042 +02:00 [INF] Retrieving Template Information
+2026-10-18 11:58:30.043 +02:00 [INF] Starting retrieval of message templates.
+2026-10-18 11:58:30.862 +02:00 [INF] Successfully retrieved 3 message templates.
+2026-10-18 11:58:30.868 +02:00 [INF] Finished displaying message templates.
+2026-10-18 11:58:30.870 +02:00 [INF] Starting customer lookup.
+2026-10-18 11:58:30.954 +02:00 [INF] Customer lookup completed successfully.
+2026-10-18 11:58:30.955 +02:00 [INF] Customer lookup successful
+2026-10-18 11:58:31.973 +02:00 [INF] selected Template id 6
+2026-10-18 11:58:31.976 +02:00 [INF] Retrieving message template 6.
+2026-10-18 11:58:33.901 +02:00 [WRN] Message template 6 was not found.
+2026-10-18 11:58:35.264 +02:00 [ERR] Failed to retrieve templete using template 6.
+System.Collections.Generic.KeyNotFoundException: Message template 6 was not found.
+   at MessageBird.Services.MessadeDA.getTempplatebyId(Int32 templateId) in E:\VexCashTestProject\MessageBird\DA\MessadeDA.cs:line 280
+2026-10-18 11:59:35.217 +02:00 [INF] MessageBird SMS application starting
+2026-10-18 11:59:35.299 +02:00 [INF] Application configuration loaded
+2026-10-18 11:59:35.544 +02:00 [INF] Database services initialized
+2026-10-18 11:59:39.989 +02:00 [INF] Retrieving Template Information
+2026-10-18 11:59:39.991 +02:00 [INF] Starting retrieval of message templates.
+2026-10-18 11:59:40.743 +02:00 [INF] Successfully retrieved 3 message templates.
+2026-10-18 11:59:40.749 +02:00 [INF] Finished displaying message templates.
+2026-10-18 11:59:40.750 +02:00 [INF] Starting customer lookup.
+2026-10-18 11:59:40.826 +02:00 [INF] Customer lookup completed successfully.
+2026-10-18 11:59:40.827 +02:00 [INF] Customer lookup successful
+2026-10-18 11:59:42.620 +02:00 [INF] selected Template id 6
+2026-10-18 11:59:42.623 +02:00 [INF] Retrieving message template 6.
+2026-10-18 12:00:02.234 +02:00 [WRN] Message template 6 was not found.
+2026-10-18 12:00:03.355 +02:00 [ERR] Failed to retrieve templete using template 6.
+System.Collections.Generic.KeyNotFoundException: Message template 6 was not found.
+   at MessageBird.Services.MessadeDA.getTempplatebyId(Int32 templateId) in E:\VexCashTestProject\MessageBird\DA\MessadeDA.cs:line 280
+2026-10-18 12:00:05.715 +02:00 [INF] 
+2026-10-18 12:00:11.445 +02:00 [INF] Retrieving Template Information
+2026-10-18 12:00:11.446 +02:00 [INF] Starting retrieval of message templates.
+2026-10-18 12:00:11.448 +02:00 [INF] Successfully retrieved 3 message templates.
+2026-10-18 12:00:11.449 +02:00 [INF] Finished displaying message templates.
+2026-10-18 12:00:11.450 +02:00 [WRN] Customer lookup failed because credit number was empty.
+2026-10-18 12:00:11.474 +02:00 [ERR] Error while processing customer lookup or templates
+System.ArgumentException: Credit number cannot be empty. (Parameter 'creditNumber')
+   at MessageBird.Services.MessadeDA.GetCustomerByCreditNumberAsync(String creditNumber) in E:\VexCashTestProject\MessageBird\DA\MessadeDA.cs:line 35
+   at Program.<Main>$(String[] args) in E:\VexCashTestProject\MessageBird\Program.cs:line 84
+2026-10-18 12:00:27.911 +02:00 [INF] MessageBird SMS application starting
+2026-10-18 12:00:27.986 +02:00 [INF] Application configuration loaded
+2026-10-18 12:00:28.318 +02:00 [INF] Database services initialized
+2026-10-18 12:00:30.376 +02:00 [INF] Retrieving Template Information
+2026-10-18 12:00:30.378 +02:00 [INF] Starting retrieval of message templates.
+2026-10-18 12:00:31.191 +02:00 [INF] Successfully retrieved 3 message templates.
+2026-10-18 12:00:31.199 +02:00 [INF] Finished displaying message templates.
+2026-10-18 12:00:31.201 +02:00 [INF] Starting customer lookup.
+2026-10-18 12:00:31.294 +02:00 [INF] Customer lookup completed successfully.
+2026-10-18 12:00:31.295 +02:00 [INF] Customer lookup successful
+2026-10-18 12:00:32.960 +02:00 [INF] selected Template id 6
+2026-10-18 12:00:32.963 +02:00 [INF] Retrieving message template 6.
+2026-10-18 12:00:36.266 +02:00 [WRN] Message template 6 was not found.
+2026-10-18 12:00:36.274 +02:00 [ERR] Failed to retrieve templete using template 6.
+System.Collections.Generic.KeyNotFoundException: Message template 6 was not found.
+   at MessageBird.Services.MessadeDA.getTempplatebyId(Int32 templateId) in E:\VexCashTestProject\MessageBird\DA\MessadeDA.cs:line 280
+2026-10-18 12:00:36.295 +02:00 [INF] 
+2026-10-18 12:00:53.046 +02:00 [INF] Retrieving Template Information
+2026-10-18 12:00:53.048 +02:00 [INF] Starting retrieval of message templates.
+2026-10-18 12:00:53.049 +02:00 [INF] Successfully retrieved 3 message templates.
+2026-10-18 12:00:53.051 +02:00 [INF] Finished displaying message templates.
+2026-10-18 12:00:53.052 +02:00 [INF] Starting customer lookup.
+2026-10-18 12:00:53.056 +02:00 [INF] Customer lookup completed successfully.
+2026-10-18 12:00:53.057 +02:00 [INF] Customer lookup successful
+2026-10-18 12:00:55.012 +02:00 [INF] selected Template id 3
+2026-10-18 12:00:55.014 +02:00 [INF] Retrieving message template 3.
+2026-10-18 12:00:55.018 +02:00 [INF]  Message template 3.
+2026-10-18 12:00:55.023 +02:00 [INF] Message generated successfully using template 3.
+2026-10-18 12:00:55.024 +02:00 [INF] Dear Munirul, the outstanding amount of 150 for credit 101 remains unpaid. Please contact Vexcash promptly to discuss payment and the next steps regarding your account.
+2026-10-18 12:00:55.062 +02:00 [INF] payload is created {"to":"145870","from":"\u002B\u002B4915252066525","text":"Dear Munirul, the outstanding amount of 150 for credit 101 remains unpaid. Please contact Vexcash promptly to discuss payment and the next steps regarding your account.","category":"transactional"}
+2026-10-18 12:00:55.369 +02:00 [INF] Response of payload {"error":{"type":"validation_error","code":"E12087","name":"SMSInvalidRecipient","message":"The recipient is not a phone number this message can be sent to.","param":"to","doc_url":"https://bird.com/docs/api/errors/E12087","request_id":"req_01m577a33ee7d84cwg1vrzv5pr","remediation":"Supply the recipient in E.164 format with its country code, for example +14155550100."}}
+
+2026-10-18 12:02:54.738 +02:00 [INF] MessageBird SMS application starting
+2026-10-18 12:02:54.825 +02:00 [INF] Application configuration loaded
+2026-10-18 12:02:55.073 +02:00 [INF] Database services initialized
+2026-10-18 12:02:56.995 +02:00 [INF] Retrieving Template Information
+2026-10-18 12:02:56.997 +02:00 [INF] Starting retrieval of message templates.
+2026-10-18 12:02:57.886 +02:00 [INF] Successfully retrieved 3 message templates.
+2026-10-18 12:02:57.891 +02:00 [INF] Finished displaying message templates.
+2026-10-18 12:02:57.893 +02:00 [INF] Starting customer lookup.
+2026-10-18 12:02:57.986 +02:00 [INF] Customer lookup completed successfully.
+2026-10-18 12:02:57.988 +02:00 [INF] Customer lookup successful
+2026-10-18 12:03:00.818 +02:00 [INF] selected Template id 2
+2026-10-18 12:03:00.821 +02:00 [INF] Retrieving message template 2.
+2026-10-18 12:03:00.830 +02:00 [INF]  Message template 2.
+2026-10-18 12:03:00.835 +02:00 [INF] Message generated successfully using template 2.
+2026-10-18 12:03:00.836 +02:00 [INF] Dear Munirul, our records show that 150 for credit 101 remains unpaid. Please arrange payment by 10/10/2026 12:00:00 AM. If payment has been made, please contact us
+2026-10-18 12:03:00.873 +02:00 [INF] payload is created {"to":"\u002B4915252066529","from":"\u002B\u002B4915252066525","text":"Dear Munirul, our records show that 150 for credit 101 remains unpaid. Please arrange payment by 10/10/2026 12:00:00 AM. If payment has been made, please contact us","category":"transactional"}
+2026-10-18 12:03:01.144 +02:00 [INF] Response of payload {"error":{"type":"validation_error","code":"E12003","name":"SMSNoEligibleSender","message":"No eligible sender is available for this message. Supply a 'from' or configure a sender for this destination.","doc_url":"https://bird.com/docs/api/errors/E12003","request_id":"req_01m577dxxvey198vbjdk1d5dgw","remediation":"Supply a 'from' sender, or configure a sender for the destination country, then send again.","next":[{"kind":"operation","description":"List your SMS senders","operation":"listWorkspaceSMSSenders"}]}}
+
+2026-10-18 12:14:12.224 +02:00 [INF] MessageBird SMS application starting
+2026-10-18 12:14:12.317 +02:00 [INF] Application configuration loaded
+2026-10-18 12:14:12.613 +02:00 [INF] Database services initialized
+2026-10-18 12:14:27.043 +02:00 [INF] MessageBird SMS application starting
+2026-10-18 12:14:27.115 +02:00 [INF] Application configuration loaded
+2026-10-18 12:14:27.352 +02:00 [INF] Database services initialized
+2026-10-18 12:45:39.138 +02:00 [INF] MessageBird SMS application starting
+2026-10-18 12:45:39.259 +02:00 [INF] Application configuration loaded
+2026-10-18 12:45:39.468 +02:00 [ERR] Error while processing customer lookup or templates
+System.InvalidOperationException: No service for type 'MessageBird.DA.MessageResponseServiceDA' has been registered.
+   at Microsoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions.GetRequiredService(IServiceProvider provider, Type serviceType)
+   at Microsoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions.GetRequiredService[T](IServiceProvider provider)
+   at Program.<Main>$(String[] args) in E:\VexCashTestProject\MessageBird\Program.cs:line 66
+2026-10-18 12:48:03.565 +02:00 [INF] MessageBird SMS application starting
+2026-10-18 12:48:03.631 +02:00 [INF] Application configuration loaded
+2026-10-18 12:48:07.079 +02:00 [INF] Database services initialized
+2026-10-18 12:49:12.288 +02:00 [INF] Bird message e8077d803532c0b5937c639b60216938 inserted successfully. Recipient count: 1.
+2026-10-18 13:48:46.135 +02:00 [INF] MessageBird SMS application starting
+2026-10-18 13:48:46.520 +02:00 [INF] Application configuration loaded
+2026-10-18 13:48:47.390 +02:00 [INF] Database services initialized
+2026-10-18 13:48:50.802 +02:00 [INF] Retrieving Template Information
+2026-10-18 13:48:50.806 +02:00 [INF] Starting retrieval of message templates.
+2026-10-18 13:48:52.724 +02:00 [INF] Successfully retrieved 3 message templates.
+2026-10-18 13:48:52.730 +02:00 [INF] Finished displaying message templates.
+2026-10-18 13:48:52.732 +02:00 [INF] Starting customer lookup.
+2026-10-18 13:48:52.821 +02:00 [INF] Customer lookup completed successfully.
+2026-10-18 13:48:52.822 +02:00 [INF] Customer lookup successful
+2026-10-18 13:48:54.418 +02:00 [INF] selected Template id 1
+2026-10-18 13:48:54.422 +02:00 [INF] Retrieving message template 1.
+2026-10-18 13:48:54.433 +02:00 [INF]  Message template 1.
+2026-10-18 13:48:54.437 +02:00 [INF] Message generated successfully using template 1.
+2026-10-18 13:48:54.439 +02:00 [INF] Dear Munirul, your outstanding amount of 150 for credit 101 is due by 10/10/2026 12:00:00 AM. If you have already paid, please disregard this reminder.
+2026-10-18 13:48:54.486 +02:00 [INF] payload is created {"to":"\u002B4915252066529","from":"\u002B\u002B4915252066525","text":"Dear Munirul, your outstanding amount of 150 for credit 101 is due by 10/10/2026 12:00:00 AM. If you have already paid, please disregard this reminder.","category":"transactional"}
+2026-10-18 13:48:54.794 +02:00 [INF] Response of payload {"error":{"type":"validation_error","code":"E12003","name":"SMSNoEligibleSender","message":"No eligible sender is available for this message. Supply a 'from' or configure a sender for this destination.","doc_url":"https://bird.com/docs/api/errors/E12003","request_id":"req_01m57dftj5eg9vaxvrz58ct0yp","remediation":"Supply a 'from' sender, or configure a sender for the destination country, then send again.","next":[{"kind":"operation","description":"List your SMS senders","operation":"listWorkspaceSMSSenders"}]}}
+
+2026-10-18 15:09:09.591 +02:00 [INF] MessageBird SMS application starting
+2026-10-18 15:09:09.888 +02:00 [ERR] Error while processing customer lookup or templates
+System.IO.FileNotFoundException: The configuration file 'appsettings.json' was not found and is not optional. The expected physical path was 'E:\VexCashTestProject\MessageBird\bin\Debug\net10.0\appsettings.json'.
+   at Microsoft.Extensions.Configuration.FileConfigurationProvider.HandleException(ExceptionDispatchInfo info)
+   at Microsoft.Extensions.Configuration.FileConfigurationProvider.Load(Boolean reload)
+   at Microsoft.Extensions.Configuration.FileConfigurationProvider.Load()
+   at Microsoft.Extensions.Configuration.ConfigurationRoot..ctor(IList`1 providers)
+   at Microsoft.Extensions.Configuration.ConfigurationBuilder.Build()
+   at Program.<Main>$(String[] args) in E:\VexCashTestProject\MessageBird\Program.cs:line 28
+2026-10-18 15:10:22.810 +02:00 [INF] MessageBird SMS application starting
+2026-10-18 15:10:23.158 +02:00 [INF] Application configuration loaded
+2026-10-18 15:10:24.183 +02:00 [INF] Database services initialized
+2026-10-18 15:10:32.054 +02:00 [INF] Retrieving Template Information
+2026-10-18 15:10:32.653 +02:00 [INF] Starting retrieval of message templates.
+2026-10-18 15:10:41.356 +02:00 [INF] Successfully retrieved 3 message templates.
+2026-10-18 15:10:41.363 +02:00 [INF] Finished displaying message templates.
+2026-10-18 15:10:41.365 +02:00 [INF] Starting customer lookup.
+2026-10-18 15:10:41.487 +02:00 [INF] Customer lookup completed successfully.
+2026-10-18 15:10:41.488 +02:00 [INF] Customer lookup successful
+2026-10-18 15:12:10.845 +02:00 [INF] selected Template id 1
+2026-10-18 15:12:10.847 +02:00 [INF] Retrieving message template 1.
+2026-10-18 15:12:10.861 +02:00 [INF]  Message template 1.
+2026-10-18 15:12:10.867 +02:00 [INF] Message generated successfully using template 1.
+2026-10-18 15:12:10.869 +02:00 [INF] Dear Munirul, your outstanding amount of 150 for credit 101 is due by 10/10/2026 12:00:00 AM. If you have already paid, please disregard this reminder.
+2026-10-18 15:12:10.955 +02:00 [INF] payload is created {"to":"\u002B4915252066529","from":"\u002B\u002B4915252066525","text":"Dear Munirul, your outstanding amount of 150 for credit 101 is due by 10/10/2026 12:00:00 AM. If you have already paid, please disregard this reminder.","category":"transactional"}
+2026-10-18 15:12:11.268 +02:00 [INF] Response of payload {"error":{"type":"validation_error","code":"E12003","name":"SMSNoEligibleSender","message":"No eligible sender is available for this message. Supply a 'from' or configure a sender for this destination.","doc_url":"https://bird.com/docs/api/errors/E12003","request_id":"req_01m57j89vxekmv26me8mtdr40m","remediation":"Supply a 'from' sender, or configure a sender for the destination country, then send again.","next":[{"kind":"operation","description":"List your SMS senders","operation":"listWorkspaceSMSSenders"}]}}
+
+2026-10-18 15:14:10.229 +02:00 [INF] Retrieving Template Information
+2026-10-18 15:14:10.230 +02:00 [INF] Starting retrieval of message templates.
+2026-10-18 15:14:10.233 +02:00 [INF] Successfully retrieved 3 message templates.
+2026-10-18 15:14:10.234 +02:00 [INF] Finished displaying message templates.
+2026-10-18 15:14:10.234 +02:00 [INF] Starting customer lookup.
+2026-10-18 15:14:10.257 +02:00 [INF] Customer lookup completed successfully.
+2026-10-18 15:14:10.258 +02:00 [INF] Customer lookup successful
+2026-10-18 15:15:54.906 +02:00 [INF] selected Template id 1
+2026-10-18 15:15:54.907 +02:00 [INF] Retrieving message template 1.
+2026-10-18 15:15:54.909 +02:00 [INF]  Message template 1.
+2026-10-18 15:15:54.910 +02:00 [INF] Message generated successfully using template 1.
+2026-10-18 15:15:54.911 +02:00 [INF] Dear Munirul, your outstanding amount of 150 for credit 101 is due by 10/10/2026 12:00:00 AM. If you have already paid, please disregard this reminder.
+2026-10-18 15:15:54.912 +02:00 [INF] payload is created {"to":"\u002B4915252066529","from":"\u002B\u002B4915252066525","text":"Dear Munirul, your outstanding amount of 150 for credit 101 is due by 10/10/2026 12:00:00 AM. If you have already paid, please disregard this reminder.","category":"transactional"}
+2026-10-18 15:15:55.081 +02:00 [INF] Response of payload {"error":{"type":"validation_error","code":"E12003","name":"SMSNoEligibleSender","message":"No eligible sender is available for this message. Supply a 'from' or configure a sender for this destination.","doc_url":"https://bird.com/docs/api/errors/E12003","request_id":"req_01m57jf4e5f2r8zywehmx0wtf6","remediation":"Supply a 'from' sender, or configure a sender for the destination country, then send again.","next":[{"kind":"operation","description":"List your SMS senders","operation":"listWorkspaceSMSSenders"}]}}
+
+2026-10-18 15:46:56.469 +02:00 [INF] MessageBird SMS application starting
+2026-10-18 15:46:57.561 +02:00 [INF] Application configuration loaded
+2026-10-18 15:46:59.692 +02:00 [INF] Database services initialized
+2026-10-18 15:47:15.298 +02:00 [INF] Retrieving Template Information
+2026-10-18 15:47:15.300 +02:00 [INF] Starting retrieval of message templates.
+2026-10-18 15:47:17.430 +02:00 [INF] Successfully retrieved 3 message templates.
+2026-10-18 15:47:17.437 +02:00 [INF] Finished displaying message templates.
+2026-10-18 15:47:17.439 +02:00 [INF] Starting customer lookup.
+2026-10-18 15:47:17.538 +02:00 [INF] Customer lookup completed successfully.
+2026-10-18 15:47:17.539 +02:00 [INF] Customer lookup successful
+2026-10-18 15:47:20.046 +02:00 [INF] selected Template id 3
+2026-10-18 15:47:20.048 +02:00 [INF] Retrieving message template 3.
+2026-10-18 15:47:20.056 +02:00 [INF]  Message template 3.
+2026-10-18 15:47:20.061 +02:00 [INF] Message generated successfully using template 3.
+2026-10-18 15:47:20.062 +02:00 [INF] Dear Munirul, the outstanding amount of 150 for credit 101 remains unpaid. Please contact Vexcash promptly to discuss payment and the next steps regarding your account.
+2026-10-18 15:47:20.112 +02:00 [INF] payload is created {"to":"\u002B4915252066529","from":"\u002B\u002B4915252066525","text":"Dear Munirul, the outstanding amount of 150 for credit 101 remains unpaid. Please contact Vexcash promptly to discuss payment and the next steps regarding your account.","category":"transactional"}
+2026-10-18 15:47:20.434 +02:00 [INF] Response of payload {"error":{"type":"validation_error","code":"E12003","name":"SMSNoEligibleSender","message":"No eligible sender is available for this message. Supply a 'from' or configure a sender for this destination.","doc_url":"https://bird.com/docs/api/errors/E12003","request_id":"req_01m57m8nj4f8q9drzybpbeq360","remediation":"Supply a 'from' sender, or configure a sender for the destination country, then send again.","next":[{"kind":"operation","description":"List your SMS senders","operation":"listWorkspaceSMSSenders"}]}}
+
+2026-10-18 15:51:00.282 +02:00 [INF] MessageBird SMS application starting
+2026-10-18 15:51:00.354 +02:00 [INF] Application configuration loaded
+2026-10-18 15:51:00.513 +02:00 [INF] Database services initialized
+2026-10-18 16:05:16.710 +02:00 [INF] MessageBird SMS application starting
+2026-10-18 16:05:16.803 +02:00 [INF] Application configuration loaded
+2026-10-18 16:05:17.116 +02:00 [INF] Database services initialized
+2026-10-18 16:08:17.747 +02:00 [INF] MessageBird SMS application starting
+2026-10-18 16:08:17.851 +02:00 [INF] Application configuration loaded
+2026-10-18 16:08:18.128 +02:00 [INF] Database services initialized
+2026-10-18 16:15:42.050 +02:00 [INF] MessageBird SMS application starting
+2026-10-18 16:15:42.143 +02:00 [INF] Application configuration loaded
+2026-10-18 16:15:42.413 +02:00 [INF] Database services initialized
+2026-10-18 17:19:21.032 +02:00 [INF] MessageBird SMS application starting
+2026-10-18 17:19:21.482 +02:00 [INF] Application configuration loaded
+2026-10-18 17:19:22.693 +02:00 [INF] Database services initialized
+2026-10-18 20:15:03.517 +02:00 [INF] MessageBird SMS application starting
+2026-10-18 20:15:04.029 +02:00 [INF] Application configuration loaded
+2026-10-18 20:15:06.232 +02:00 [INF] Database services initialized
+2026-10-18 20:15:21.857 +02:00 [INF] Retrieving Template Information
+2026-10-18 20:15:21.886 +02:00 [INF] Starting retrieval of message templates.
+2026-10-18 20:15:24.623 +02:00 [INF] Successfully retrieved 3 message templates.
+2026-10-18 20:15:24.626 +02:00 [INF] Finished displaying message templates.
+2026-10-18 20:15:24.627 +02:00 [INF] Starting customer lookup.
+2026-10-18 20:15:24.729 +02:00 [INF] Customer lookup completed successfully.
+2026-10-18 20:15:24.729 +02:00 [INF] Customer lookup successful
+2026-10-18 20:15:28.853 +02:00 [INF] selected Template id 2
+2026-10-18 20:15:28.854 +02:00 [INF] Retrieving message template 2.
+2026-10-18 20:15:28.861 +02:00 [INF]  Message template 2.
+2026-10-18 20:15:28.865 +02:00 [INF] Message generated successfully using template 2.
+2026-10-18 20:17:40.182 +02:00 [INF] MessageBird SMS application starting
+2026-10-18 20:17:40.261 +02:00 [INF] Application configuration loaded
+2026-10-18 20:17:40.412 +02:00 [INF] Database services initialized
+2026-10-18 20:17:44.100 +02:00 [INF] Retrieving Template Information
+2026-10-18 20:17:44.102 +02:00 [INF] Starting retrieval of message templates.
+2026-10-18 20:17:44.911 +02:00 [INF] Successfully retrieved 3 message templates.
+2026-10-18 20:17:44.914 +02:00 [INF] Finished displaying message templates.
+2026-10-18 20:17:44.914 +02:00 [INF] Starting customer lookup.
+2026-10-18 20:17:45.001 +02:00 [INF] Customer lookup completed successfully.
+2026-10-18 20:17:45.002 +02:00 [INF] Customer lookup successful
+2026-10-18 20:17:46.562 +02:00 [INF] selected Template id 1
+2026-10-18 20:17:46.563 +02:00 [INF] Retrieving message template 1.
+2026-10-18 20:17:46.571 +02:00 [INF]  Message template 1.
+2026-10-18 20:17:46.574 +02:00 [INF] Message generated successfully using template 1.
+2026-10-18 20:22:03.203 +02:00 [INF] MessageBird SMS application starting
+2026-10-18 20:22:03.269 +02:00 [INF] Application configuration loaded
+2026-10-18 20:22:03.675 +02:00 [INF] Database services initialized
+2026-10-18 20:22:07.558 +02:00 [INF] Retrieving Template Information
+2026-10-18 20:22:07.559 +02:00 [INF] Starting retrieval of message templates.
+2026-10-18 20:22:08.309 +02:00 [INF] Successfully retrieved 3 message templates.
+2026-10-18 20:22:08.312 +02:00 [INF] Finished displaying message templates.
+2026-10-18 20:22:08.313 +02:00 [INF] Starting customer lookup.
+2026-10-18 20:22:08.387 +02:00 [INF] Customer lookup completed successfully.
+2026-10-18 20:22:08.387 +02:00 [INF] Customer lookup successful
+2026-10-18 20:22:10.061 +02:00 [INF] selected Template id 1
+2026-10-18 20:22:10.062 +02:00 [INF] Retrieving message template 1.
+2026-10-18 20:22:10.071 +02:00 [INF]  Message template 1.
+2026-10-18 20:22:10.075 +02:00 [INF] Message generated successfully using template 1.
+2026-10-18 20:26:32.613 +02:00 [INF] MessageBird SMS application starting
+2026-10-18 20:26:33.046 +02:00 [INF] Application configuration loaded
+2026-10-18 20:26:33.423 +02:00 [INF] Database services initialized
+2026-10-18 20:26:37.116 +02:00 [INF] Retrieving Template Information
+2026-10-18 20:26:37.133 +02:00 [INF] Starting retrieval of message templates.
+2026-10-18 20:26:38.702 +02:00 [INF] Successfully retrieved 3 message templates.
+2026-10-18 20:26:38.704 +02:00 [INF] Finished displaying message templates.
+2026-10-18 20:26:38.705 +02:00 [INF] Starting customer lookup.
+2026-10-18 20:26:38.816 +02:00 [INF] Customer lookup completed successfully.
+2026-10-18 20:26:38.816 +02:00 [INF] Customer lookup successful
+2026-10-18 20:26:41.999 +02:00 [INF] selected Template id 1
+2026-10-18 20:26:42.000 +02:00 [INF] Retrieving message template 1.
+2026-10-18 20:26:42.008 +02:00 [INF]  Message template 1.
+2026-10-18 20:26:42.011 +02:00 [INF] Message generated successfully using template 1.
+2026-10-18 20:26:42.068 +02:00 [INF] payload is created {"to":"\u002B4915252066529","from":"Munirulee","text":"Dear Munirul, your outstanding amount of 150 for credit 101 is due by 10/10/2026 12:00:00 AM. If you have already paid, please disregard this reminder.","category":"transactional"}
+2026-10-18 20:26:42.368 +02:00 [INF] Response of payload {"error":{"type":"validation_error","code":"E12056","name":"SMSSenderNotConfigured","message":"This sender is not one of your configured SMS senders.","doc_url":"https://bird.com/docs/api/errors/E12056","request_id":"req_01m58486cset3r9j7mdq0jvsm9","remediation":"Add the sender under SMS senders before sending from it, then register it for any destination country that requires a registration. Sending from a sender you have not configured is no longer permitted."}}
+
+2026-10-18 20:26:45.066 +02:00 [ERR] Error while processing customer lookup or templates
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 1: 'table apiResponse has no column named EntryDate'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteCommand.PrepareAndEnumerateStatements()+MoveNext()
+   at Microsoft.Data.Sqlite.SqliteCommand.GetStatements()+MoveNext()
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChangesAsync(IList`1 entries, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at MessageBird.Services.MessadeDA.SaveAsync(Nullable`1 customerId, String responseMsg, CancellationToken cancellationToken) in E:\VexCashTestProject\MessageBird\DA\MessadeDA.cs:line 346
+   at Program.<Main>$(String[] args) in E:\VexCashTestProject\MessageBird\Program.cs:line 120
+2026-10-18 20:27:26.551 +02:00 [INF] MessageBird SMS application starting
+2026-10-18 20:27:26.609 +02:00 [INF] Application configuration loaded
+2026-10-18 20:27:26.812 +02:00 [INF] Database services initialized
+2026-10-18 20:27:29.974 +02:00 [INF] Retrieving Template Information
+2026-10-18 20:27:29.976 +02:00 [INF] Starting retrieval of message templates.
+2026-10-18 20:27:30.783 +02:00 [INF] Successfully retrieved 3 message templates.
+2026-10-18 20:27:30.786 +02:00 [INF] Finished displaying message templates.
+2026-10-18 20:27:30.787 +02:00 [INF] Starting customer lookup.
+2026-10-18 20:27:30.866 +02:00 [INF] Customer lookup completed successfully.
+2026-10-18 20:27:30.867 +02:00 [INF] Customer lookup successful
+2026-10-18 20:27:32.107 +02:00 [INF] selected Template id 1
+2026-10-18 20:27:32.108 +02:00 [INF] Retrieving message template 1.
+2026-10-18 20:27:32.116 +02:00 [INF]  Message template 1.
+2026-10-18 20:27:32.120 +02:00 [INF] Message generated successfully using template 1.
+2026-10-18 20:33:35.560 +02:00 [INF] MessageBird SMS application starting
+2026-10-18 20:33:35.618 +02:00 [INF] Application configuration loaded
+2026-10-18 20:33:35.821 +02:00 [INF] Database services initialized
+2026-10-18 20:33:40.813 +02:00 [INF] Retrieving Template Information
+2026-10-18 20:33:40.814 +02:00 [INF] Starting retrieval of message templates.
+2026-10-18 20:33:41.534 +02:00 [INF] Successfully retrieved 3 message templates.
+2026-10-18 20:33:41.538 +02:00 [INF] Finished displaying message templates.
+2026-10-18 20:33:41.540 +02:00 [INF] Starting customer lookup.
+2026-10-18 20:33:41.641 +02:00 [INF] Customer lookup completed successfully.
+2026-10-18 20:33:41.641 +02:00 [INF] Customer lookup successful
+2026-10-18 20:33:42.582 +02:00 [INF] selected Template id 1
+2026-10-18 20:33:42.583 +02:00 [INF] Retrieving message template 1.
+2026-10-18 20:33:42.591 +02:00 [INF]  Message template 1.
+2026-10-18 20:33:42.595 +02:00 [INF] Message generated successfully using template 1.
+2026-10-18 20:33:45.275 +02:00 [INF] payload is created {"to":"\u002B4915252066529","from":"Munirulee","text":"Dear Munirul, your outstanding amount of 150 for credit 101 is due by 10/10/2026 12:00:00 AM. If you have already paid, please disregard this reminder.","category":"transactional"}
+2026-10-18 20:33:45.621 +02:00 [INF] Response of payload {"error":{"type":"validation_error","code":"E12056","name":"SMSSenderNotConfigured","message":"This sender is not one of your configured SMS senders.","doc_url":"https://bird.com/docs/api/errors/E12056","request_id":"req_01m584n3pvfvttcatkj54z97xc","remediation":"Add the sender under SMS senders before sending from it, then register it for any destination country that requires a registration. Sending from a sender you have not configured is no longer permitted."}}
+
+2026-10-18 20:34:19.244 +02:00 [ERR] Error while processing customer lookup or templates
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 1: 'table apiResponse has no column named EntryDate'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteCommand.PrepareAndEnumerateStatements()+MoveNext()
+   at Microsoft.Data.Sqlite.SqliteCommand.GetStatements()+MoveNext()
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChangesAsync(IList`1 entries, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at MessageBird.Services.MessadeDA.SaveAsync(Nullable`1 customerId, String responseMsg, CancellationToken cancellationToken) in E:\VexCashTestProject\MessageBird\DA\MessadeDA.cs:line 346
+   at Program.<Main>$(String[] args) in E:\VexCashTestProject\MessageBird\Program.cs:line 121
+2026-10-18 20:38:23.833 +02:00 [INF] MessageBird SMS application starting
+2026-10-18 20:38:23.999 +02:00 [INF] Application configuration loaded
+2026-10-18 20:38:24.253 +02:00 [INF] Database services initialized
+2026-10-18 20:38:28.656 +02:00 [INF] Retrieving Template Information
+2026-10-18 20:38:28.678 +02:00 [INF] Starting retrieval of message templates.
+2026-10-18 20:38:29.692 +02:00 [INF] Successfully retrieved 3 message templates.
+2026-10-18 20:38:29.694 +02:00 [INF] Finished displaying message templates.
+2026-10-18 20:38:29.695 +02:00 [INF] Starting customer lookup.
+2026-10-18 20:38:29.772 +02:00 [INF] Customer lookup completed successfully.
+2026-10-18 20:38:29.772 +02:00 [INF] Customer lookup successful
+2026-10-18 20:38:30.951 +02:00 [INF] selected Template id 1
+2026-10-18 20:38:30.952 +02:00 [INF] Retrieving message template 1.
+2026-10-18 20:38:30.959 +02:00 [INF]  Message template 1.
+2026-10-18 20:38:30.964 +02:00 [INF] Message generated successfully using template 1.
+2026-10-18 20:38:32.738 +02:00 [INF] payload is created {"to":"\u002B4915252066529","from":"Munirulee","text":"Dear Munirul, your outstanding amount of 150 for credit 101 is due by 10/10/2026 12:00:00 AM. If you have already paid, please disregard this reminder.","category":"transactional"}
+2026-10-18 20:38:33.161 +02:00 [INF] Response of payload {"error":{"type":"validation_error","code":"E12056","name":"SMSSenderNotConfigured","message":"This sender is not one of your configured SMS senders.","doc_url":"https://bird.com/docs/api/errors/E12056","request_id":"req_01m584xwgnevfaacbn234dbbe2","remediation":"Add the sender under SMS senders before sending from it, then register it for any destination country that requires a registration. Sending from a sender you have not configured is no longer permitted."}}
+
+2026-10-18 20:39:49.724 +02:00 [INF] MessageBird SMS application starting
+2026-10-18 20:39:49.779 +02:00 [INF] Application configuration loaded
+2026-10-18 20:39:49.956 +02:00 [INF] Database services initialized
+2026-10-18 20:39:55.820 +02:00 [INF] Retrieving Template Information
+2026-10-18 20:39:55.821 +02:00 [INF] Starting retrieval of message templates.
+2026-10-18 20:39:56.663 +02:00 [INF] Successfully retrieved 3 message templates.
+2026-10-18 20:39:56.667 +02:00 [INF] Finished displaying message templates.
+2026-10-18 20:39:56.669 +02:00 [INF] Starting customer lookup.
+2026-10-18 20:39:56.753 +02:00 [INF] Customer lookup completed successfully.
+2026-10-18 20:39:56.753 +02:00 [INF] Customer lookup successful
+2026-10-18 20:39:57.944 +02:00 [INF] selected Template id 1
+2026-10-18 20:39:57.945 +02:00 [INF] Retrieving message template 1.
+2026-10-18 20:39:57.953 +02:00 [INF]  Message template 1.
+2026-10-18 20:39:57.957 +02:00 [INF] Message generated successfully using template 1.
+2026-10-18 20:39:59.979 +02:00 [INF] payload is created {"to":"\u002B4915252066529","from":"Munirulee","text":"Dear Munirul, your outstanding amount of 150 for credit 101 is due by 10/10/2026 12:00:00 AM. If you have already paid, please disregard this reminder.","category":"transactional"}
+2026-10-18 20:40:00.341 +02:00 [INF] Response of payload {"error":{"type":"validation_error","code":"E12056","name":"SMSSenderNotConfigured","message":"This sender is not one of your configured SMS senders.","doc_url":"https://bird.com/docs/api/errors/E12056","request_id":"req_01m5850hmpebsv28ttxgs6g3g7","remediation":"Add the sender under SMS senders before sending from it, then register it for any destination country that requires a registration. Sending from a sender you have not configured is no longer permitted."}}
+
+2026-10-18 20:40:42.761 +02:00 [INF] MessageBird SMS application starting
+2026-10-18 20:40:42.819 +02:00 [INF] Application configuration loaded
+2026-10-18 20:40:42.976 +02:00 [INF] Database services initialized
+2026-10-18 20:40:47.772 +02:00 [INF] Retrieving Template Information
+2026-10-18 20:40:47.773 +02:00 [INF] Starting retrieval of message templates.
+2026-10-18 20:40:48.658 +02:00 [INF] Successfully retrieved 3 message templates.
+2026-10-18 20:40:48.661 +02:00 [INF] Finished displaying message templates.
+2026-10-18 20:40:48.662 +02:00 [INF] Starting customer lookup.
+2026-10-18 20:40:48.737 +02:00 [INF] Customer lookup completed successfully.
+2026-10-18 20:40:48.737 +02:00 [INF] Customer lookup successful
+2026-10-18 20:40:49.702 +02:00 [INF] selected Template id 1
+2026-10-18 20:40:49.703 +02:00 [INF] Retrieving message template 1.
+2026-10-18 20:40:49.711 +02:00 [INF]  Message template 1.
+2026-10-18 20:40:49.716 +02:00 [INF] Message generated successfully using template 1.
+2026-10-18 20:40:51.438 +02:00 [INF] payload is created {"to":"\u002B4915252066529","from":"Munirulee","text":"Dear Munirul, your outstanding amount of 150 for credit 101 is due by 10/10/2026 12:00:00 AM. If you have already paid, please disregard this reminder.","category":"transactional"}
+2026-10-18 20:40:51.763 +02:00 [INF] Response of payload {"error":{"type":"validation_error","code":"E12056","name":"SMSSenderNotConfigured","message":"This sender is not one of your configured SMS senders.","doc_url":"https://bird.com/docs/api/errors/E12056","request_id":"req_01m58523vqfvbvqpaacqff9n53","remediation":"Add the sender under SMS senders before sending from it, then register it for any destination country that requires a registration. Sending from a sender you have not configured is no longer permitted."}}
+
+2026-10-18 20:40:56.351 +02:00 [INF] sms response is saved successfully in database
+2026-10-18 20:42:06.323 +02:00 [INF] MessageBird SMS application starting
+2026-10-18 20:42:06.392 +02:00 [INF] Application configuration loaded
+2026-10-18 20:42:06.563 +02:00 [INF] Database services initialized
+2026-10-18 20:42:12.602 +02:00 [INF] Retrieving Template Information
+2026-10-18 20:42:12.604 +02:00 [INF] Starting retrieval of message templates.
+2026-10-18 20:42:13.474 +02:00 [INF] Successfully retrieved 3 message templates.
+2026-10-18 20:42:13.477 +02:00 [INF] Finished displaying message templates.
+2026-10-18 20:42:13.478 +02:00 [INF] Starting customer lookup.
+2026-10-18 20:42:13.568 +02:00 [INF] Customer lookup completed successfully.
+2026-10-18 20:42:13.568 +02:00 [INF] Customer lookup successful
+2026-10-18 20:42:15.189 +02:00 [INF] selected Template id 1
+2026-10-18 20:42:15.191 +02:00 [INF] Retrieving message template 1.
+2026-10-18 20:42:15.199 +02:00 [INF]  Message template 1.
+2026-10-18 20:42:15.202 +02:00 [INF] Message generated successfully using template 1.
+2026-10-18 20:42:19.709 +02:00 [INF] payload is created {"to":"\u002B4915252066529","from":"Munirulee","text":"Dear Munirul, your outstanding amount of 150 for credit 101 is due by 10/10/2026 12:00:00 AM. If you have already paid, please disregard this reminder.","category":"transactional"}
+2026-10-18 20:42:20.037 +02:00 [INF] Response of payload {"error":{"type":"validation_error","code":"E12056","name":"SMSSenderNotConfigured","message":"This sender is not one of your configured SMS senders.","doc_url":"https://bird.com/docs/api/errors/E12056","request_id":"req_01m5854t29edcaqh37sfsgw22v","remediation":"Add the sender under SMS senders before sending from it, then register it for any destination country that requires a registration. Sending from a sender you have not configured is no longer permitted."}}
+
+2026-10-18 20:42:20.319 +02:00 [INF] sms response is saved successfully in database
+2026-10-18 20:53:45.215 +02:00 [INF] MessageBird SMS application starting
+2026-10-18 20:53:45.279 +02:00 [INF] Application configuration loaded
+2026-10-18 20:53:45.419 +02:00 [INF] Database services initialized
+2026-10-18 20:53:48.923 +02:00 [INF] Retrieving Template Information
+2026-10-18 20:53:49.456 +02:00 [INF] Starting retrieval of message templates.
+2026-10-18 20:53:52.367 +02:00 [INF] Successfully retrieved 3 message templates.
+2026-10-18 20:53:52.372 +02:00 [INF] Finished displaying message templates.
+2026-10-18 20:53:52.373 +02:00 [INF] Starting customer lookup.
+2026-10-18 20:53:52.461 +02:00 [INF] Customer lookup completed successfully.
+2026-10-18 20:53:52.461 +02:00 [INF] Customer lookup successful
+2026-10-18 20:53:53.944 +02:00 [INF] selected Template id 1
+2026-10-18 20:53:53.946 +02:00 [INF] Retrieving message template 1.
+2026-10-18 20:53:53.955 +02:00 [INF]  Message template 1.
+2026-10-18 20:53:53.959 +02:00 [INF] Message generated successfully using template 1.
+2026-10-18 20:53:54.023 +02:00 [INF] payload is created {"to":"\u002B4915252066529","from":"Munirulee","text":"Dear Munirul, your outstanding amount of 150 for credit 101 is due by 10/10/2026 12:00:00 AM. If you have already paid, please disregard this reminder.","category":"transactional"}
+2026-10-18 20:53:54.308 +02:00 [INF] Response of payload {"error":{"type":"validation_error","code":"E12056","name":"SMSSenderNotConfigured","message":"This sender is not one of your configured SMS senders.","doc_url":"https://bird.com/docs/api/errors/E12056","request_id":"req_01m585t023fntsg6nectjq5gmx","remediation":"Add the sender under SMS senders before sending from it, then register it for any destination country that requires a registration. Sending from a sender you have not configured is no longer permitted."}}
+
+2026-10-18 20:53:54.823 +02:00 [INF] sms response is saved successfully in database
+2026-10-18 22:12:06.875 +02:00 [INF] MessageBird SMS application starting
+2026-10-18 22:12:07.015 +02:00 [INF] Application configuration loaded
+2026-10-18 22:12:07.680 +02:00 [INF] Database services initialized
+2026-10-18 22:12:12.095 +02:00 [INF] Starting customer lookup.
+2026-10-18 22:15:30.228 +02:00 [INF] MessageBird SMS application starting
+2026-10-18 22:15:30.295 +02:00 [INF] Application configuration loaded
+2026-10-18 22:15:30.624 +02:00 [INF] Database services initialized
+2026-10-18 22:15:32.433 +02:00 [INF] Starting customer lookup.
+2026-10-18 22:33:32.708 +02:00 [INF] MessageBird SMS application starting
+2026-10-18 22:33:32.778 +02:00 [INF] Application configuration loaded
+2026-10-18 22:33:33.073 +02:00 [INF] Database services initialized
+2026-10-18 22:33:35.051 +02:00 [INF] Starting customer lookup.
+2026-10-18 22:33:36.448 +02:00 [INF] Customer lookup completed successfully. Found 2 customers.
+2026-10-18 22:33:56.517 +02:00 [INF] Starting customer lookup.
+2026-10-18 22:33:56.524 +02:00 [INF] Customer lookup completed successfully. Found 2 customers.
+2026-10-18 23:00:16.820 +02:00 [INF] MessageBird SMS application starting
+2026-10-18 23:00:16.891 +02:00 [INF] Application configuration loaded
+2026-10-18 23:00:17.072 +02:00 [INF] Database services initialized
+2026-10-18 23:00:21.833 +02:00 [INF] Starting Template lookup.
+2026-10-18 23:00:22.637 +02:00 [INF] Template lookup completed successfully. Found 3 customers.
+2026-10-18 23:00:37.379 +02:00 [INF] Starting customer lookup.
+2026-10-18 23:00:37.385 +02:00 [INF] Customer lookup completed successfully. Found 2 customers.
+2026-10-18 23:01:02.038 +02:00 [INF] Starting Template lookup.
+2026-10-18 23:01:02.044 +02:00 [INF] Template lookup completed successfully. Found 3 customers.
+2026-10-18 23:01:11.733 +02:00 [INF] Starting customer lookup.
+2026-10-18 23:01:11.734 +02:00 [INF] Customer lookup completed successfully. Found 2 customers.
+2026-10-18 23:04:21.969 +02:00 [INF] MessageBird SMS application starting
+2026-10-18 23:04:22.033 +02:00 [INF] Application configuration loaded
+2026-10-18 23:04:22.221 +02:00 [INF] Database services initialized
+2026-10-18 23:04:26.496 +02:00 [INF] Starting customer lookup.
+2026-10-18 23:04:27.453 +02:00 [INF] Customer lookup completed successfully. Found 3 customers.
+2026-10-18 23:04:36.404 +02:00 [INF] Starting Template lookup.
+2026-10-18 23:04:36.415 +02:00 [INF] Template lookup completed successfully. Found 3 customers.
+2026-10-18 23:04:39.779 +02:00 [INF] Starting customer lookup.
+2026-10-18 23:04:39.784 +02:00 [INF] Customer lookup completed successfully. Found 3 customers.
+2026-10-18 23:17:29.703 +02:00 [INF] MessageBird SMS application starting
+2026-10-18 23:17:29.769 +02:00 [INF] Application configuration loaded
+2026-10-18 23:17:29.949 +02:00 [INF] Database services initialized
+2026-10-18 23:17:33.083 +02:00 [INF] Starting Template lookup.
+2026-10-18 23:17:33.846 +02:00 [INF] Template lookup completed successfully. Found 3 customers.
+2026-10-18 23:17:38.736 +02:00 [INF] Starting customer lookup.
+2026-10-18 23:17:38.743 +02:00 [INF] Customer lookup completed successfully. Found 3 customers.
+2026-10-18 23:47:30.858 +02:00 [INF] MessageBird SMS application starting
+2026-10-18 23:47:30.924 +02:00 [INF] Application configuration loaded
+2026-10-18 23:47:31.119 +02:00 [INF] Database services initialized
+2026-10-18 23:48:15.916 +02:00 [INF] Starting customer lookup.
+2026-10-18 23:48:16.845 +02:00 [WRN] Customer lookup returned no result.
+2026-10-18 23:48:16.845 +02:00 [WRN] Customer lookup returned no result
+2026-10-18 23:48:38.250 +02:00 [INF] Starting Template lookup.
+2026-10-18 23:48:38.269 +02:00 [INF] Template lookup completed successfully. Found 3 customers.
+2026-10-18 23:48:45.476 +02:00 [INF] Starting Template lookup.
+2026-10-18 23:48:45.481 +02:00 [INF] Template lookup completed successfully. Found 3 customers.
+2026-10-18 23:48:49.900 +02:00 [INF] Starting customer lookup.
+2026-10-18 23:48:49.904 +02:00 [INF] Customer lookup completed successfully. Found 3 customers.
+2026-10-18 23:48:59.905 +02:00 [INF] Starting customer lookup.
+2026-10-18 23:48:59.912 +02:00 [INF] Customer lookup completed successfully.
+2026-10-18 23:48:59.912 +02:00 [INF] Customer lookup successful
+2026-10-18 23:49:04.486 +02:00 [INF] selected Template id 2
+2026-10-18 23:49:04.487 +02:00 [INF] Retrieving message template 2.
+2026-10-18 23:49:04.493 +02:00 [INF]  Message template 2.
+2026-10-18 23:49:04.497 +02:00 [INF] Message generated successfully using template 2.
+2026-10-18 23:49:04.554 +02:00 [INF] payload is created {"to":"\u002B4915252066529","from":"Munirulee","text":"Dear Munirul, our records show that 150 for credit 101 remains unpaid. Please arrange payment by 10/10/2026 12:00:00 AM. If payment has been made, please contact us","category":"transactional"}
+2026-10-18 23:49:04.853 +02:00 [INF] Response of payload {"error":{"type":"validation_error","code":"E12056","name":"SMSSenderNotConfigured","message":"This sender is not one of your configured SMS senders.","doc_url":"https://bird.com/docs/api/errors/E12056","request_id":"req_01m58ftr3ge689qajzf01etmhs","remediation":"Add the sender under SMS senders before sending from it, then register it for any destination country that requires a registration. Sending from a sender you have not configured is no longer permitted."}}
+
+2026-10-18 23:49:05.174 +02:00 [INF] sms response is saved successfully in database
+2026-10-18 23:52:52.062 +02:00 [INF] MessageBird SMS application starting
+2026-10-18 23:52:52.132 +02:00 [INF] Application configuration loaded
+2026-10-18 23:52:52.340 +02:00 [INF] Database services initialized
+2026-10-18 23:54:31.603 +02:00 [INF] MessageBird SMS application starting
+2026-10-18 23:54:31.675 +02:00 [INF] Application configuration loaded
+2026-10-18 23:54:31.900 +02:00 [INF] Database services initialized
+2026-10-18 23:54:37.835 +02:00 [INF] Starting Template lookup.
+2026-10-18 23:54:38.585 +02:00 [INF] Template lookup completed successfully. Found 3 customers.
+2026-10-18 23:55:19.381 +02:00 [INF] MessageBird SMS application starting
+2026-10-18 23:55:19.466 +02:00 [INF] Application configuration loaded
+2026-10-18 23:55:19.618 +02:00 [INF] Database services initialized
+2026-10-18 23:55:32.924 +02:00 [INF] Starting customer lookup.
+2026-10-18 23:55:33.759 +02:00 [INF] Customer lookup completed successfully.
+2026-10-18 23:55:33.759 +02:00 [INF] Customer lookup successful
+2026-10-18 23:55:35.300 +02:00 [INF] selected Template id 1
+2026-10-18 23:55:35.305 +02:00 [INF] Retrieving message template 1.
+2026-10-18 23:55:35.316 +02:00 [INF]  Message template 1.
+2026-10-18 23:55:35.320 +02:00 [INF] Message generated successfully using template 1.
+2026-10-18 23:55:35.356 +02:00 [INF] payload is created {"to":"\u002B4915252066529","from":"Munirulee","text":"Dear Munirul, your outstanding amount of 150 for credit 101 is due by 10/10/2026 12:00:00 AM. If you have already paid, please disregard this reminder.","category":"transactional"}
+2026-10-18 23:55:35.643 +02:00 [INF] Response of payload {"error":{"type":"validation_error","code":"E12056","name":"SMSSenderNotConfigured","message":"This sender is not one of your configured SMS senders.","doc_url":"https://bird.com/docs/api/errors/E12056","request_id":"req_01m58g6nqbe6mvtqrm2marsjfn","remediation":"Add the sender under SMS senders before sending from it, then register it for any destination country that requires a registration. Sending from a sender you have not configured is no longer permitted."}}
+
+2026-10-18 23:55:35.852 +02:00 [INF] sms response is saved successfully in database
+2026-10-18 23:57:33.286 +02:00 [INF] MessageBird SMS application starting
+2026-10-18 23:57:33.392 +02:00 [INF] Application configuration loaded
+2026-10-18 23:57:33.564 +02:00 [INF] Database services initialized
+2026-10-18 23:57:38.052 +02:00 [INF] Starting customer lookup.
+2026-10-18 23:57:38.864 +02:00 [INF] Customer lookup completed successfully.
+2026-10-18 23:57:38.864 +02:00 [INF] Customer lookup successful
+2026-10-18 23:57:40.467 +02:00 [INF] selected Template id 1
+2026-10-18 23:57:40.470 +02:00 [INF] Retrieving message template 1.
+2026-10-18 23:57:40.480 +02:00 [INF]  Message template 1.
+2026-10-18 23:57:40.484 +02:00 [INF] Message generated successfully using template 1.
+2026-10-18 23:57:40.524 +02:00 [INF] payload is created {"to":"\u002B4915252066529","from":"Munirul","text":"Dear Munirul, your outstanding amount of 150 for credit 101 is due by 10/10/2026 12:00:00 AM. If you have already paid, please disregard this reminder.","category":"transactional"}
+2026-10-18 23:57:40.822 +02:00 [INF] Response of payload {"error":{"type":"billing_error","code":"E07001","name":"WalletInsufficientBalance","message":"Insufficient wallet balance. Please top up to continue sending.","doc_url":"https://bird.com/docs/api/errors/E07001","request_id":"req_01m58gafybem6vb7r4ypnj1h6g","remediation":"Top up the organization's balance, then retry the request. Nothing was sent or charged."}}
+
+2026-10-18 23:57:41.376 +02:00 [INF] sms response is saved successfully in database

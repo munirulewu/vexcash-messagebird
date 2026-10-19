@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../MessageBird.TestProject/MessageBird.TestProject.csproj" Id="67225cbe-4631-4ad2-8a8f-f8bb1bede68e" />
+  <Project Path="MessageBird.csproj" />
+</Solution>

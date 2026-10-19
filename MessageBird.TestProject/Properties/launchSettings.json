@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "MessageBird.TestProject": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "BIRD_API_KEY": "bk_eu1_5K0ZgBxFepm8PV90CdDNFG53tMOC2",
+        "BIRD_TO": "+4915252066529",
+        "BIRD_SENDER_ID": "+4915252066528"
+      }
+    }
+  }
+}

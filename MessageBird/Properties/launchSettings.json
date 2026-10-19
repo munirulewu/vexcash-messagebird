@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "MessageBird": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
