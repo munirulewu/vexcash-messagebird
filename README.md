@@ -26,6 +26,7 @@ appsettings folder location \vexCash\MessageBird\bin\Debug\net10.0
 database folder location \vexCash\MessageBird\bin\Debug\net10.0
 
 log file location: \vexCash\MessageBird\bin\Debug\logs
+Database File Name: vexsmsDBD
 
 ## How to run
 1. Application is compled. ensure that you have visual studion 2026 is installed in your working station. 
