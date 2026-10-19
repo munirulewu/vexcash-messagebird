@@ -1,6 +1,3 @@
-
-## Technology Stack
-
  Technology 
 ========================
 | C# 
@@ -16,8 +13,6 @@
 - A Bird API key with the required permissions
 - SQLite database and connection configuration
 - A permitted test phone number for SMS testing
--
-Install any missing packages required by the project:
 
 ## Configuration
 Update the following information from the appsettings 
@@ -34,6 +29,6 @@ log file location: \vexCash\MessageBird\bin\Debug\logs
 
 ## How to run
 1. Application is compled. ensure that you have visual studion 2026 is installed in your working station. 
-2. folder location \vexCash\MessageBird\bin\Debug\net10.0\messagebird.exe application file
+2. folder location \vexcash-messagebird\MessageBirdApplication\messagebird.exe application file 
  
 
